@@ -1,0 +1,3 @@
+Zebra, Debra, Mebra
+Let's have fun
+With bash and git
